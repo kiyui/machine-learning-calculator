@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 from sklearn import tree
 
 # Generators are the best
